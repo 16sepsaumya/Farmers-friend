@@ -1,0 +1,8 @@
+
+1. `keras`
+2. `numpy`
+3. `streamlit`
+4. `opencv_python_headless`
+5. `tensorflow`
+
+These are the necessary files (dependencies) needed for your plant disease detection model.
